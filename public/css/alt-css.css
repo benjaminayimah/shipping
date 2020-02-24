@@ -1,0 +1,15 @@
+.img-2{ display: block !important;}
+.img-1{ display: none !important;}
+.logo-sub{ color: #777777 !important;}
+
+.quote-btn{ background-image: linear-gradient(to right top, #1123de, #0336e7, #0046f0, #0055f8, #0063ff); color: #ffffff !important;}
+.custom-navbar {
+    background: #ffffff !important;
+}
+.nav li a { color: #575757 !important;}
+.nav li:hover a { color: #ff0000 !important;}
+.section-title {
+    font-weight: 600 !important;
+    font-size: 46px !important;
+}
+footer{ margin-top: 0 !important;}

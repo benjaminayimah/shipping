@@ -1,0 +1,65 @@
+.position-ref {
+    position: relative;
+}
+.flex-center {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.full-height {
+    height: 100vh;
+}
+.message {
+    font-size: 18px;
+    text-align: center;
+}
+html, body {
+    background-color: #fff;
+    color: #636b6f;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 100;
+    height: 100vh;
+    margin: 0;
+}
+h1,h2,h3,h4,h5,h6{
+    color: #636b6f;
+    font-family: 'Nunito', sans-serif;
+}
+/*---------------------------------------
+SOCIAL ICON
+-----------------------------------------*/
+
+.social-icon {
+    position: relative;
+    padding: 0;
+    margin: 0;
+}
+
+.social-icon li {
+    display: inline-block;
+    list-style: none;
+    margin-bottom: 5px;
+}
+
+.social-icon li a {
+    border-radius: 100px;
+    color: #ff0000;
+    background-color: rgb(244, 245, 247);
+    font-size: 15px;
+    width: 35px;
+    height: 35px;
+    line-height: 35px;
+    text-decoration: none;
+    text-align: center;
+    transition: all 0.4s ease-in-out;
+    position: relative;
+}
+
+.social-icon li a:hover {
+    background: #ff0000;
+    color: #ffffff;
+}
+header{
+    box-shadow: 0 4px 4px -4px rgba(94, 114, 228,0.13) !important;
+}
+
